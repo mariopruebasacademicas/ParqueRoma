@@ -1,6 +1,6 @@
 import './App.css';
 
-import logoParqueRoma from './assets/PR-R-blanca'
+import logoParqueRoma from './assets/PR-R-blanca.jpg'
 
 function App() {
   return (
