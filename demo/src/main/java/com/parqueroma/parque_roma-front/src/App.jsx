@@ -1,21 +1,22 @@
-import logo from './logo.svg';
 import './App.css';
+
+import logoParqueRoma from './assets/PR-R-blanca'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={logoParqueRoma} className="App-logo" alt="CDE Parque Roma Logo" />
         <p>
           CDE Parque Roma - DataBase
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.cdeparqueroma.es"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          www.cdeparqueroma.es
         </a>
       </header>
     </div>
