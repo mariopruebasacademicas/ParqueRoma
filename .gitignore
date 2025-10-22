@@ -1,0 +1,15 @@
+/demo/target/
+/demo/.vscode/
+
+/parque_roma-front/build/
+/parque_roma-front/node_modules/
+
+# Ignorar la BBDD H2 local
+/demo/data/
+
+# Ignorar archivos del sistema operativo
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
